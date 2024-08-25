@@ -1,4 +1,6 @@
 {
+     // Problem 1 -Solution::
+
 
      function repeatString(word: string , count: number):void{
           for(let i = 0; i< count; i++){
@@ -8,5 +10,5 @@
 
      repeatString("Hello!", 3)
 
-
+     //
 }
